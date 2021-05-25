@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
 #import "WXApiObject.h"
+
 
 NS_ASSUME_NONNULL_BEGIN
 
